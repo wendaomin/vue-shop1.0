@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "8776711",
+      "name": "record",
+      "font_class": "icon-test",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "8776716",
+      "name": "credits",
+      "font_class": "icon-test1",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8777050",
+      "name": "ET",
+      "font_class": "icon-test2",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "8777080",
+      "name": "filter",
+      "font_class": "icon-test3",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "8777371",
+      "name": "international",
+      "font_class": "icon-test4",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
       "icon_id": "5699806",
       "name": "icon_password",
       "font_class": "icon-",
