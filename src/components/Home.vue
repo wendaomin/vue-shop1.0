@@ -61,7 +61,6 @@ export default {
       // 失败
       if (res.meta.status !== 200) return this.$message.error(res.meta.msg)
       this.menuList = res.data
-      console.log(res)
     },
     collapseToggle() {
       this.isCollapse = !this.isCollapse
